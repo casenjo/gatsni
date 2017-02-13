@@ -32,3 +32,6 @@ bower_components
 Thumbs.db
 
 db
+
+*.sublime-project
+*.sublime-workspace
